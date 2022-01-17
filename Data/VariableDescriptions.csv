@@ -1,0 +1,12 @@
+﻿Data Element,Description,Type
+Wat_Sup,Water Supplied,int
+Fo_Area,Forest Area,int
+Non_For,Non Forest Area,int
+Res_Ar,Reserved Forest Area,int
+AR_OP,Area Opened for Harvesting,int
+Pop_Es,Population Estimate,int
+Pop_Den,Population Density,int
+Cl_Ws,Clinical Waste Handled,int
+Sch_Ws,Scheduled Waste,int
+Mean_Temp,Mean Temperature,int
+Rain,Mean Rainfall,int
