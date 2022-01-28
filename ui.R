@@ -177,6 +177,12 @@ shinyUI(navbarPage(title = "Enviro",
                    
                    
                    
+                   # tab panel 6 - Documentation
+                   tabPanel("Documentation",
+                            includeHTML("document.html")
+                            
+                            
+                   ),
                    
                    # tab panel 5 - About
                    tabPanel("About",
